@@ -1,4 +1,4 @@
-# PREDICTION---Tensorflow
+# PREDICTION-Tensorflow
 
 
 1.png >>> Model predicts it as 7, because of the straight line similar with 7
